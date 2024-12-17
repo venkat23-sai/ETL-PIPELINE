@@ -1,0 +1,6 @@
+{"address":"usa","designation":"data analyst","emp_id":"4","name":"neha","department":"it","salary":"12000"}
+{"address":"usa","designation":"marketing","emp_id":"5","name":"","department":"sales","salary":"20000"}
+{"address":"india","designation":"software ","emp_id":"1","name":"manish","department":"it","salary":"10000"}
+{"address":"india","designation":"data analyst","emp_id":"6","name":"rahul","department":"it","salary":""}
+{"address":"usa","designation":"data analyst","emp_id":"2","name":"rani","department":"sales","salary":"20000"}
+{"address":"india","designation":"trainer","emp_id":"3","name":"rinku","department":"other","salary":"55000"}
